@@ -1,0 +1,29 @@
+body{
+    margin:0;
+    background-color: aqua;
+}
+.input-container{
+    height: 15vh;
+    
+}
+.task-container{
+    height: 85vh;
+    background-color: bisque;
+    color:black;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+
+}
+li{
+    list-style:none;
+
+    font-size: 1.25rem;
+    background-color: yellowgreen;
+    width: 60vh;
+    height: 1.5rem;
+}
+.input_box{
+    font-family: 'Poppins', sans-serif;
+    height: 60%;
+    font-size: 1.25rem;
+}
